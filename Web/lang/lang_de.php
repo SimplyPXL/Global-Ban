@@ -40,10 +40,10 @@ $lang = array(
 	"status" => "Status",
 
 	//Error messages
-	"installerror" => "<b>Error beim laden der Applikation. Bitte überprüfe deine Config und stelle sicher das du die Applikation bereits installiert hast: www.{your-website}.com/bans/admin/install.php</b>",
+	"installerror" => "<b>Error beim laden der Anwendung. Bitte überprüfe deine Config und stelle sicher das du die Anwendung bereits installiert hast: www.{your-website}.com/bans/admin/install.php</b>",
 	"signin" => "<b>Bitte melde dich an um diesen Bereich zu sehen.</b>",
 	"nopermissionerror" => "<b>Du hast keine Rechte um das hier zu sehen.</b>",
-	"setupcomplete" => "<b>Error beim laden der Applikation. Die Installation wurde bereits ausgeführt.</b>",
+	"setupcomplete" => "<b>Error beim laden der Anwendung. Die Installation wurde bereits ausgeführt.</b>",
 
 	//Messages
 	"youmustbeloggedin" => "Du musst eingeloggt sein um einen Entbann-Antrag zu stellen.",
